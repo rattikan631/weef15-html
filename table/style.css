@@ -1,0 +1,13 @@
+table,th,td{
+    border:5px solid #25E671;
+    border-collapse: collapse;
+}
+th,td{
+    border:3px solid #62E625;
+    padding: 10px;
+    text-align: left ;
+}
+td{
+    border:2px solid #DDE625;
+    text-align: center ;
+}
